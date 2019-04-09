@@ -1,0 +1,5 @@
+compton -b &
+nitrogen --restore
+lxappearance &
+sleep 1
+pkill lxappearance
