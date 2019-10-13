@@ -13,5 +13,10 @@ function run {
 
 run "nitrogen --restore"
 #run "variety"
-run "nm-applet"
-run "cbatticon"
+#run "nm-applet"
+#run "cbatticon"
+run "compton -b"
+run "xbindkeys"
+run "nm-tray"
+run "urxvtd"
+##run "pulseauio --start"
